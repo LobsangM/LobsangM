@@ -1,6 +1,8 @@
-# ABOUT ME
+# ABOUT 
 
-### I am a proactive person with great English skills, organized and responsible. My goal is a position challenging and dynamic where to add experience and new knowledge. I’m always eager to tackle fresh challenges and expand my skill set. I have skills in mathematical models, problem solving and data analysis. My goal is to be a professional data analyst and an outstanding physicist
+### I'm physics and engineering student, I'm 21 years old, I've spent 4 years jn both carrers. I'm versatile, competent and dynamic in the analysis and resokution on math problems.
+
+### I like to challenge myself finding out hiw far my knowledge goes and discover new ways to learn how the world works. I have mathematical models, problem solving data analysis skills. I wish to be a professional Data Analyst and outstanding physicist. 
 
 # LANGUAGES, PLATFORMS, AND TECHNOLOGIES
 
